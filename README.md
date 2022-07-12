@@ -1,8 +1,8 @@
 # kuaishou_video
 
-最新快手解析方法 py
+最新快手无水印视频解析方法 py
 
-kuaishou.py里面的链接替换为app里面生成的
+直接python kuaishou.py后输入快手链接即可解析
 
 格式
 v.kuaishouapp.com
