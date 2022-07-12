@@ -9,3 +9,8 @@ v.kuaishouapp.com
 v.kuaishou.com
 
 普通版和极速版都可以
+
+ 持续更新中〜
+ 随意Fork和Star 感谢大家的支持
+ 
+ 过几天我会更新其他短视频！
